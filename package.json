@@ -1,0 +1,8 @@
+{
+  "name": "lister",
+  "version": "1.0.0",
+  "main": "list.js",
+  "author": "Joshua Khondowe",
+  "license": "MIT",
+  "private": true
+}
