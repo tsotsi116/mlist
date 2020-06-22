@@ -4,5 +4,5 @@
   "main": "list.js",
   "author": "Joshua Khondowe",
   "license": "MIT",
-  "private": true
+  "private": false
 }
